@@ -1,8 +1,8 @@
 # Starbie
 making a totally not starboy
 
-Current state:
-<img width="617" height="380" alt="image" src="https://github.com/user-attachments/assets/600765c1-07a0-4264-bb6f-b08b0e864301" />
+Current state: <br />
+<img width="617" height="380" alt="image" src="https://github.com/user-attachments/assets/600765c1-07a0-4264-bb6f-b08b0e864301" /> <br />
 the schematic is complete!!
 
 However the wiring is not ready yet, I will try to fix it later, hopefully the esp32 will be wired soon!!!
