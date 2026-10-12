@@ -93,10 +93,10 @@
 			(layerselection 0x00000000_00000000_55555555_5755f5ff)
 			(plot_on_all_layers_selection 0x00000000_00000000_00000000_00000000)
 			(disableapertmacros no)
-			(usegerberextensions no)
+			(usegerberextensions yes)
 			(usegerberattributes yes)
 			(usegerberadvancedattributes yes)
-			(creategerberjobfile yes)
+			(creategerberjobfile no)
 			(dashed_line_dash_ratio 12)
 			(dashed_line_gap_ratio 3)
 			(svgprecision 4)
@@ -123,7 +123,7 @@
 			(mirror no)
 			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "")
+			(outputdirectory "gerbers")
 		)
 	)
 	(footprint "Sensor:Aosong_DHT11_5.5x12.0_P2.54mm"
@@ -204,7 +204,7 @@
 		)
 		(fp_line
 			(start -3.16 -2.600002)
-			(end -3.159999 -0.600002)
+			(end -3.159999 -0.600003)
 			(stroke
 				(width 0.12)
 				(type solid)
@@ -2151,7 +2151,7 @@
 			(uuid "7827003d-c1df-4129-929b-f271f427af73")
 		)
 		(pad "1" thru_hole rect
-			(at -3.810002 -0.000001 96)
+			(at -3.810003 -0.000001 96)
 			(size 1.7 1.7)
 			(drill 1)
 			(layers "*.Cu" "*.Mask")
@@ -2184,7 +2184,7 @@
 			(uuid "9ab7f337-172b-48fb-89cb-a6dec90c54d7")
 		)
 		(pad "4" thru_hole oval
-			(at 3.810002 0.000001 96)
+			(at 3.810003 0.000001 96)
 			(size 1.7 1.7)
 			(drill 1)
 			(layers "*.Cu" "*.Mask")
@@ -2336,7 +2336,7 @@
 		)
 		(fp_poly
 			(pts
-				(xy 2.010001 -0.800001) (xy 5.61 -0.800001) (xy 5.61 0.8) (xy 2.01 0.8)
+				(xy 2.010001 -0.800002) (xy 5.61 -0.800001) (xy 5.61 0.8) (xy 2.01 0.8)
 			)
 			(stroke
 				(width 0.1)
