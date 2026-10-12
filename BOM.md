@@ -18,10 +18,9 @@
 | [DHT11](https://www.amazon.com/dp/B0BLG7R99R) | moisture and temp sensor | 1 | $3.33 | $3.33 | [amazon](https://www.amazon.com/dp/B0BLG7R99R) |
 | [MX Switches](https://www.amazon.com//dp/B0FQP8VYX4) | the buttons switches | 4 | $0.18 | $0.72 | [amazon](https://www.amazon.com//dp/B0FQP8VYX4) |
 | [Keycaps](https://www.amazon.com/dp/B0CQ2VLMVY) | keycaps for the buttons | 4 | $0.60 | $2.40 | [amazon](https://www.amazon.com/dp/B0CQ2VLMVY) |
-| [10k Resistor](https://www.amazon.com/dp/B0B4JFPHTW) | resistor | 1 | $0.05 | $0.05 | [amazon](https://www.amazon.com/dp/B0B4JFPHTW) |
 | [PCB](https://www.jlcpcb.com/) | The actual pcb | 1 | $9.00 | $9.00 | [jlcpcb](https://www.jlcpcb.com/) |
-| **Parts subtotal** | — | — | — | **$39.22** | — |
+| **Parts subtotal** | — | — | — | **$39.17** | — |
 | **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$39.22** | — |
+| **Total** | — | — | — | **$39.17** | — |
 
-**$9.22 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+**$9.17 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
