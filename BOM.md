@@ -20,7 +20,7 @@
 | [Keycaps](https://www.aliexpress.com/item/1005009031620916.html?spm=a2g0o.cart.0.0.4aad38daeHaqi1&mp=1&pdp_npi=6%40dis%21GBP%21GBP+3.23%21GBP+3.23%21%21GBP+3.23%21%21%21%402103956a17917655290597367e0fb0%2112000047649050620%21ct%21UK%21-1%21%211%210%21) | keycaps for the buttons | 1 | $4.28 | $4.28 | [aliexpress](https://www.aliexpress.com/item/1005009031620916.html?spm=a2g0o.cart.0.0.4aad38daeHaqi1&mp=1&pdp_npi=6%40dis%21GBP%21GBP+3.23%21GBP+3.23%21%21GBP+3.23%21%21%21%402103956a17917655290597367e0fb0%2112000047649050620%21ct%21UK%21-1%21%211%210%21) |
 | [PCB](https://www.jlcpcb.com/) | The actual pcb | 1 | $9.00 | $9.00 | [jlcpcb](https://www.jlcpcb.com/) |
 | **Parts subtotal** | — | — | — | **$36.17** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$36.17** | — |
+| **Tax & shipping** | — | — | — | **$3.72** | — |
+| **Total** | — | — | — | **$39.89** | — |
 
-**$6.17 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+**$9.89 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
