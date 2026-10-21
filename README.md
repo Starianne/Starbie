@@ -18,5 +18,10 @@ UPDATE:
 
 I present to you a working, properly wired rubbish pcb that has my beautiful chud star in the code
 
-<img width="32" height="32" alt="chudStar" src="https://github.com/user-attachments/assets/bb91624d-a09b-4f8e-91e5-dfbc7ca33cd7" />
+<img width="32" height="32" alt="chudStar" src="https://github.com/user-attachments/assets/bb91624d-a09b-4f8e-91e5-dfbc7ca33cd7" /> <br/>
+
+
+To assemble this I am going to solder the parts I get delivered to me together myself, then I'll flash the esp32. To do that, I will be following a guide from Seeed studio here: https://wiki.seeedstudio.com/XIAO_ESP32C3_Getting_Started/ and it will just use the arduino code + ide I used towards the end of my project.
+
+BOM:
 
